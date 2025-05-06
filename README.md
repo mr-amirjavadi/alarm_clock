@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⏰ PyQt5 Alarm Clock
 
 یک برنامه‌ی ساده و قدرتمند ساعت زنگ‌دار با رابط کاربری گرافیکی طراحی‌شده با **PyQt5**. این برنامه به شما امکان می‌دهد تا:
@@ -30,3 +31,7 @@
 1. ابتدا پکیج‌های لازم را نصب کنید:
 ```bash
 pip install pyqt5 pytz
+=======
+# alarm_clock
+"Simple project to set alarm clock and task reminders"
+>>>>>>> be0f6998ed909d7234529a96db809f7406cc128a
