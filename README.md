@@ -30,7 +30,8 @@
 
 1. ابتدا پکیج‌های لازم را نصب کنید:
 ```bash
-pip install pyqt5 pytz
+pip install pyqt5 pytz jdatetime
+
 =======
 # alarm_clock
 "Simple project to set alarm clock and task reminders"
